@@ -1,15 +1,25 @@
- .formulario {
-    background-color:orange;
+.formulario {
+    background-color: orange;
     color: black;
     font-size: 20px;
+    display: block;
     text-align: center;
     padding: 50px;
-    
- .boton-de-agendar {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+}
+
+.boton-de-agendar {
     background-color: green;
 }
 
-
-}
 /* aqui anadi color de fondo y color de texto al formulario de brazzers */
 
